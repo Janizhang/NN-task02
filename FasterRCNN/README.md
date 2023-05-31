@@ -8,11 +8,11 @@ This project is an implementation of Faster RCNN (based on Resnet50 or VGG16). I
 **1.** Clone the FasterRCNN repository.
 
 ```bash
-git clone https://github.com/Ulricman/MIDTERM-PROJECT-CV-2022Spring.git
+git clone https://github.com/Janizhang/NN-task02.git
 ```
 
 **2.** Build a new environment with conda.
-Our environment is a Linux system with CUDA version == 11.4.
+The environment is a Linux system with CUDA version == 11.4.
 ```bash
 conda create -n faster python==3.8
 conda activate faster
